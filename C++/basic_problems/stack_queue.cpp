@@ -86,5 +86,6 @@ int main(){
     // vector <int> v={4,5,2,25};
     // int n=4;
     // q2(v,n);
-    q3("ababac");
+    q3("abb");
+    // 3rd Result is not good better to use counter in python
 }
