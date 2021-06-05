@@ -45,5 +45,6 @@ void dfs(int x,int y){
 }
 int main(){
     cin>>n>>m;
+    //Starting from (1,1) cell
     dfs(1,1);
 }
